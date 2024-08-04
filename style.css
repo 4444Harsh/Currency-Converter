@@ -21,7 +21,6 @@ body {
     padding: 30px 10px;
     border: 2px solid gray;
     border-radius: 10px;
-    /* margin: 200px 0px; */
 }
 
 .info {
@@ -35,7 +34,7 @@ body {
     width: 87px;
 }
 
-.src , .dest {
+.src, .dest {
     display: flex;
     flex-direction: column;
 }
@@ -67,8 +66,6 @@ select {
     border-radius: 5px;
     width: 97%;
     height: 40px;
-    /* padding: 2px 2px; */
-    /* align-self: center; */
     display: flex;
     align-items: center;
     justify-content: center;
